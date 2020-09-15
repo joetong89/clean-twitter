@@ -1,0 +1,81 @@
+blockquote.twitter-tweet {
+  font-family: "Helvetica Neue", Roboto, "Segoe UI", Calibri, sans-serif;
+  font-size: 12px;
+  font-weight: bold;
+  line-height: 16px;
+  border-color: #eee #ddd #bbb;
+  border-radius: 5px;
+  border-style: solid;
+  border-width: 1px;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.15);
+  margin: 10px 5px;
+  padding: 16px 16px 16px 16px;
+  max-width: 625px;
+  background-color: white;
+}
+
+blockquote.twitter-tweet p {
+  font-size: 16px;
+  font-weight: normal;
+  line-height: 20px;
+
+  padding-top: 10px;
+}
+
+blockquote.twitter-tweet p span {
+  white-space: pre-line;
+}
+
+blockquote.twitter-tweet .author {
+  font-size: 16px;
+}
+
+blockquote.twitter-tweet .time {
+  float: right;
+}
+
+blockquote.twitter-tweet video {
+  width: 100%;
+  margin-top: 10px;
+  border-radius: 10px;
+}
+
+blockquote.twitter-tweet img {
+  margin-top: 10px;
+}
+
+blockquote.twitter-tweet a {
+  color: inherit;
+  font-weight: normal;
+  text-decoration: none;
+  outline: 0 none;
+}
+
+blockquote.twitter-tweet a:hover,
+blockquote.twitter-tweet a:focus {
+  text-decoration: underline;
+}
+
+body {
+  background-color: #e6ecf0;
+}
+
+.container {
+  width: 100%;
+  margin: 30px auto;
+}
+
+#author_card {
+  width: 18rem;
+  margin: 30px auto;
+}
+
+.top-button {
+  font-size: 16px;
+  margin: 20px 20px;
+  float: right;
+}
+
+input::placeholder {
+  color: "white";
+}

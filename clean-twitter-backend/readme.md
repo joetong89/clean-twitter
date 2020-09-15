@@ -1,0 +1,5 @@
+export NODE_ENV=dev
+export consumer_key=Q6ErT76CgleA6MsesYKTHBACC
+export consumer_secret=mSeXKOEtekvIskdg8Cpg886QOcpOd5mJwQqGfnPBSzd44ebpPm
+export access_token_key=793009927-i0tubRU9a4bT4LRvj8PmJnv8ZZV4yxd5YGsks5Sp
+export access_token_secret=hlIDtpFCY028dH1LC701ZIw2hrTEDyUDMzb2UxG1yDxXd
